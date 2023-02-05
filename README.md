@@ -4,7 +4,7 @@ All2Txt Convertor is a windows application that allows to extract texts from any
 Also, provides all the basic functionalities to edit and save txt files.<br><br>
 
 Developed using C#<br>
-Developed by Mohammad Shamimur Rahman.<br><br>
+Developed by Mohammad Shamimur Rahman @srcodes<br><br>
 
 Instructions:<br>
 *Install the app using the "All2Txt Convertor Setup" file.<br>
