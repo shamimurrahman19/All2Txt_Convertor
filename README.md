@@ -8,9 +8,9 @@ Developed by Mohammad Shamimur Rahman<br><br>
 
 Instructions:<br>
 *Install the app using the "All2Txt Convertor Setup" file.<br>
-*Click on the desktop icon generated after the installation to open the app.<br>
-*You can load any document with the "Load a document" option in the file menu.<br>
-*All the texts from the file will be shown in the textbox as raw text.<br>
-*You can edit the file using all the options available in the "Edit" Menu.<br>
-*The editing options can be also accessed by right-clicking the mouse on the textbox.<br>
-*You can save a file as .txt by using the save option under the File menu.<br>
+*Click on the desktop icon to open the app.<br>
+*You can load any document with the "Load a document" option under the file menu.<br>
+*The loaded file will be displayed in the textbox in raw text format.<br>
+*You can edit the text using all the options available in the "Edit" Menu.<br>
+*Or you can right-clickg on the textbox to bring up the editing options.<br>
+*File can be saved as .txt by using the save option under the File menu.<br>
