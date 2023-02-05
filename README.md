@@ -1,6 +1,5 @@
 # All2Txt Convertor for Windows
-![Alt](All2Txt Convertor Logo.png)
-![Image](All2Txt Convertor Logo.png)
+![alt text](https://github.com/shamimurrahman19/All2Txt_Convertor/blob/main/All2Txt%20Convertor%20Logo.png)
 All2Txt Convertor is a windows application that allows to convert any document such as pdf, doc, docx, pptx, xlsx into unformatted raw txt.<br>
 Also, provides all the basic functionalities to edit and save txt files.<br><br>
 
