@@ -13,5 +13,5 @@ Instructions:<br>
 *After launching the app You can load any document with the "Load a document" option under the file menu.<br>
 *The loaded file will be displayed in the textbox in raw text format.<br>
 *You can edit the text using all the options available in the "Edit" Menu.<br>
-*Or you can right-clickg on the textbox to bring up the editing options.<br>
+*Or you can right-click on the textbox to bring up the editing options.<br>
 *File can be saved as .txt by using the save option under the File menu.<br>
