@@ -1,7 +1,8 @@
 # All 2 Txt Convertor for Windows
 ![alt text](https://github.com/shamimurrahman19/All2Txt_Convertor/blob/master/All%202%20Txt%20Convertor%20Logo.png)<br>
-All2Txt Convertor is a windows application that allows to extract texts from any document such as pdf, doc, docx, pptx, xlsx and odt.<br>
-Also, provides all the basic functionalities to edit and save txt files.<br><br>
+All2Txt Convertor is a Windows-based application designed for extracting text from various types of documents, including PDF, DOC, DOCX, PPTX, XLSX, XLS and ODT.<br>
+The application is capable of converting any document format into a raw, unformatted TXT file.<br>
+It also provides the basic functionality necessary for editing and saving TXT files.<br><br>
 [Download Setup File](https://raw.githubusercontent.com/shamimurrahman19/All2Txt_Convertor/master/All%202%20Txt%20Convertor%20Setup.exe)
 <br><br>
 Developed using C#<br>
